@@ -1,6 +1,6 @@
 # main method
 def main():
-    with open("calory_input.txt") as input_file:
+    with open("calorie_input.txt") as input_file:
         contents = input_file.read()
 
     # split the contents into a list of strings
